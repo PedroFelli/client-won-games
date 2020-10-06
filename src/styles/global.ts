@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html {
-    font-sizee: 62%;
+    font-size: 62%;
   }
 
   html,body, #__next{
